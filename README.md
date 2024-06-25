@@ -9,6 +9,8 @@ Updated to the Diamond Mount with a V6 Bambu hotend and BTT Eddy probe.
 
 [BTT Eddy Probe Mount](https://www.printables.com/model/905305-bigtreetech-btt-eddy-probe-for-diamond-mount)
 
+[Hood for Sapphire](https://www.printables.com/model/911064-twotrees-sapphire-plus-hood-pillars)
+
 
 
 ![alt text](https://github.com/falkien/TwoTrees_Sapphire_Plus/blob/main/Pics/PXL_20240616_172725478.jpg)
