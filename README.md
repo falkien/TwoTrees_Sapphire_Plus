@@ -8,7 +8,7 @@ Hotend
 https://www.aliexpress.us/item/3256806230214649.html
 
 Fans
-[Side fans (GDSTIME 40mm x 10mm 4010 Blower Fan 24V Dual Ball Bearing)(https://www.amazon.com/dp/B0DLKJ7WDJ)
+[Side fans (GDSTIME 40mm x 10mm 4010 Blower Fan 24V Dual Ball Bearing)](https://www.amazon.com/dp/B0DLKJ7WDJ)
 [Center fan wired 3 wire (ELVES 3010 Axial Cooling Fan DC 24V)](https://www.amazon.com/dp/B0DXDX6B5L)
 
 Filament
