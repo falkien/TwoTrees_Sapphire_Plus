@@ -1,21 +1,30 @@
 # TwoTrees_Sapphire_Plus
 This will have random stuff for the Sapphire Plus
 
-Updated to the Diamond Mount with a V6 Bambu hotend and BTT Eddy probe. 
+[Toolhead By Andres Palomo](https://cults3d.com/en/3d-model/tool/io-mount-a-premium-toolhead-design-for-twotrees-corexy-systems-sp-5-version)
 
-[Diamond Mount](https://www.printables.com/model/169465-the-diamond-mount)
+Hotend
+[TZ-V6_2.0 (bambu clone)]
+https://www.aliexpress.us/item/3256806230214649.html
 
-[V6 Bambu Hotend](https://www.aliexpress.us/item/3256805923394228.html)
+Fans
+[Side fans (GDSTIME 40mm x 10mm 4010 Blower Fan 24V Dual Ball Bearing)](https://www.amazon.com/dp/B0DLKJ7WDJ)
+[Center fan wired 3 wire (ELVES 3010 Axial Cooling Fan DC 24V)](https://www.amazon.com/dp/B0DXDX6B5L)
 
-[BTT Eddy Probe Mount](https://www.printables.com/model/905305-bigtreetech-btt-eddy-probe-for-diamond-mount)
+Filament
+[Accent Yellow Polylite ASA](https://us.polymaker.com/products/polylite-asa?variant=40294530908217)
 
-[Hood for Sapphire](https://www.printables.com/model/911064-twotrees-sapphire-plus-hood-pillars)
+[Main body White Polylit ASA](https://us.polymaker.com/products/polylite-asa?variant=39574343221305)
 
-[4020 fan ducts](https://cults3d.com/en/3d-model/tool/fan-ducts-for-4020-diamond-nf-crazy-volcano-twotrees-sapphire-pro-plus-sp-3-sp-5)
+[Eddy Duo (bed leveling)](https://www.amazon.com/BIGTREETECH-Direct-Leveling-Connection-Stealthburner/dp/B0DN1FYY5C)
 
-[Spacers for 4020 right side fan](https://www.printables.com/model/924456-spacers-for-4020-fans-on-diamond-mount)
+[BIQU Nebula Extruder](https://www.amazon.com/BIQU-Compatible-StealthBurner-Lightweight-High-Temperature/dp/B0F9K87SHG)
 
-![alt text](https://github.com/falkien/TwoTrees_Sapphire_Plus/blob/main/Pics/PXL_20240616_172725478.jpg)
+[Eddy-NG Auto level](https://github.com/vvuk/eddy-ng/wiki/Installation)
+
+Stock Nano V1.2 mainboard flashed with Klipper
+
+![alt text]([https://github.com/falkien/TwoTrees_Sapphire_Plus/blob/main/Pics/PXL_20240616_172725478.jpg](https://github.com/falkien/TwoTrees_Sapphire_Plus/blob/main/Pics/Wide%20Front.jpg)
 
 
 
