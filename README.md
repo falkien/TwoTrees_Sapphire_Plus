@@ -4,12 +4,12 @@ This will have random stuff for the Sapphire Plus
 [Toolhead By Andres Palomo](https://cults3d.com/en/3d-model/tool/io-mount-a-premium-toolhead-design-for-twotrees-corexy-systems-sp-5-version)
 
 Hotend
-[TZ-V6_2.0 (bambu clone)]
-https://www.aliexpress.us/item/3256806230214649.html
+[TZ-V6_2.0 bambu clone](https://www.aliexpress.us/item/3256806230214649.html)
 
 Fans
-[Side fans (GDSTIME 40mm x 10mm 4010 Blower Fan 24V Dual Ball Bearing)](https://www.amazon.com/dp/B0DLKJ7WDJ)
-[Center fan wired 3 wire (ELVES 3010 Axial Cooling Fan DC 24V)](https://www.amazon.com/dp/B0DXDX6B5L)
+[Side fans GDSTIME 40mm x 10mm 4010 Blower Fan 24V Dual Ball Bearing](https://www.amazon.com/dp/B0DLKJ7WDJ)
+
+[Center fan wired 3 wire ELVES 3010 Axial Cooling Fan DC 24V](https://www.amazon.com/dp/B0DXDX6B5L)
 
 Filament
 [Accent Yellow Polylite ASA](https://us.polymaker.com/products/polylite-asa?variant=40294530908217)
