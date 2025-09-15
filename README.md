@@ -1,5 +1,4 @@
 # TwoTrees_Sapphire_Plus
-This will have random stuff for the Sapphire Plus
 
 [Toolhead By Andres Palomo](https://cults3d.com/en/3d-model/tool/io-mount-a-premium-toolhead-design-for-twotrees-corexy-systems-sp-5-version)
 
