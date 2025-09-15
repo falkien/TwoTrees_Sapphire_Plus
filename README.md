@@ -24,7 +24,7 @@ Filament
 
 Stock Nano V1.2 mainboard flashed with Klipper
 
-![alt text]([https://github.com/falkien/TwoTrees_Sapphire_Plus/blob/main/Pics/PXL_20240616_172725478.jpg](https://github.com/falkien/TwoTrees_Sapphire_Plus/blob/main/Pics/Wide%20Front.jpg)
+![alt text](https://github.com/falkien/TwoTrees_Sapphire_Plus/blob/main/Pics/Wide%20Front.jpg)
 
 
 
